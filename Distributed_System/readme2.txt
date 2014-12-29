@@ -3,8 +3,7 @@ CIS630, Spring 2014, Term Project (Part II), Due date: June 5, 2014
 
 Please complete the following information, save this file and submit it along with your program
 
-Your First and Last name: Wenyuan Yu
-Your Student ID:  951379094
+
 
 What programming language did you use to write your code? C++
 
