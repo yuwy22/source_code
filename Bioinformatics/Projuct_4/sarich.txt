@@ -1,0 +1,31 @@
+# Distance matrix for nj.rb or upgma.rb
+# Data from Sarich (via Felsenstein)
+
+dog	bear	32.0
+dog	raccoon	48.0
+dog	weasel	51.0
+dog	seal	50.0
+dog	sea_lion	48.0
+dog	cat	98.0
+dog	monkey	148.0
+bear	raccoon	26.0
+bear	weasel	34.0
+bear	seal	29.0
+bear	sea_lion	33.0
+bear	cat	84.0
+bear	monkey	136.0
+raccoon	weasel	42.0
+raccoon	seal	44.0	
+raccoon	sea_lion	44.0
+raccoon	cat	92.0
+raccoon	monkey	152.0
+weasel	seal	44.0
+weasel	sea_lion	38.0
+weasel	cat	86.0
+weasel	monkey	142.0
+seal	sea_lion	24.0
+seal	cat	89.0
+seal	monkey	142.0
+sea_lion	cat	90.0
+sea_lion	monkey	142.0
+cat	monkey	148.0
