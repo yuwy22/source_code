@@ -1,5 +1,4 @@
-Your First and Last name: Wenyuan Yu
-Your Student ID: 951379094
+
 
 What programming language did you use to write your code? Java
 
